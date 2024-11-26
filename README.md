@@ -83,7 +83,7 @@ This repository contains the following sections:
 ## 📧 Contact Me  
 
 - 📧 **Email**: [julesbarth13@gmail.com](mailto:julesbarth13@gmail.com)  
-- 🌐 **LinkedIn**: [Jules Barth](www.linkedin.com/in/jules-barth)  
+- 🌐 **LinkedIn**: [Jules Barth](https://www.linkedin.com/in/jules-barth)  
 - 🖥️ **Portfolio**: [Visit my Website](https://my-portfolio-oc5azro5h-farxs-projects.vercel.app)  
 
 Feel free to ⭐ star this repository if you find it interesting or helpful!  
