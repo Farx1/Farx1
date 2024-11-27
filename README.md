@@ -1,6 +1,7 @@
 # 🌟 Jules Barth - Portfolio & Projects Repository
-
-![Hero Image](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Portfolio)  
+<!--
+![Hero Image](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Portfolio)
+-->
 *👨‍💻 Engineering Student | Data & AI Specialist | Quantum Technologies Enthusiast*
 
 ---
