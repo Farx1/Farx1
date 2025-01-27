@@ -85,7 +85,7 @@ This repository contains the following sections:
 
 - 📧 **Email**: [julesbarth13@gmail.com](mailto:julesbarth13@gmail.com)  
 - 🌐 **LinkedIn**: [Jules Barth](https://www.linkedin.com/in/jules-barth)  
-- 🖥️ **Portfolio**: [Visit my Website](https://julesbart-myportfolio.fr)  
+- 🖥️ **Portfolio**: [Visit my Website](https://julesbarth-myportfolio.fr)  
 
 Feel free to ⭐ star this repository if you find it interesting or helpful!  
 
