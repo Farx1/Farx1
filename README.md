@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Professional Banner -->https://github.com/Farx1/Farx1/blob/main/jules-banner-modern
-<img width="100%" src="https://github.com/Farx1/Farx1/blob/main/jules-banner-modern?raw=true" alt="Jules Barth - Data & AI Engineer"/>
+<img width="100%" src="https://github.com/Farx1/Farx1/blob/main/jules-banner-modern.png" alt="Jules Barth - Data & AI Engineer"/>
 
 <!-- Animated Header with Wave Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
