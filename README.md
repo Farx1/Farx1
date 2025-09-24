@@ -284,8 +284,8 @@ print(jules.current_status())
 
 <br/>
 
-### 📍 **Location & Contact**
-**📍 Nanterre, France** • **📞 +33 7 81 62 93 02**
+### 📞 ** Contact**
+**📍Paris,France** • **📞 +33 7 81 62 93 02**
 
 <br/>
 
