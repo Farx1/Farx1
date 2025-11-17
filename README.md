@@ -248,7 +248,6 @@ print(jules.current_status())
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farx1&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
@@ -288,7 +287,7 @@ print(jules.current_status())
 <br/>
 
 <!-- If you have a real resume link, replace the # below -->
-**[📄 Download Resume](#)** • **[🌐 Personal Website](https://julesbarth-myportfolio.fr)**
+**[📄 Download Resume](RESUME_Jules_BARTH.pdf)** • **[🌐 Personal Website](https://julesbarth-myportfolio.fr)**
 
 </div>
 
