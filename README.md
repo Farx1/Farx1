@@ -287,7 +287,7 @@ print(jules.current_status())
 <br/>
 
 <!-- If you have a real resume link, replace the # below -->
-**[📄 Download Resume](RESUME_Jules_BARTH.pdf)** • **[🌐 Personal Website](https://julesbarth-myportfolio.fr)**
+**[📄 Check Resume](RESUME_Jules_BARTH.pdf)** • **[🌐 Personal Website](https://julesbarth-myportfolio.fr)**
 
 </div>
 
