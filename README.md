@@ -7,7 +7,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Data+%26+AI+Engineering+Student+%40+ESILV;Quantum+Computing+Enthusiast;Full-Stack+Developer;Building+Intelligent+Systems+%26+Innovative+Applications" alt="Typing Animation"/>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=100&color=58A6FF&repeat=false&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=Data+%26+AI+Engineering+Student+%40+ESILV;Quantum+Computing+Enthusiast;Full-Stack+Developer;Building+Intelligent+Systems+%26+Innovative+Applications;Seeking+a+6+months+internship+beginning+February+2026"
+  alt="Typing Animation"
+/>
+
+
+<br/><br/> 
 
 <!-- Social Badges -->
 <p>
