@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Recent Projects (2024)
 
 <table>
 <tr>
@@ -79,7 +79,7 @@
 **💼 Skills Demonstrated:** LLM integration, chatbot architecture, TypeScript, NLP, production deployment
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/esilvchatbot)
-![Updated](https://img.shields.io/badge/Updated-December_2024-success?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-December_2025-success?style=flat-square)
 
 </td>
 <td width="50%">
@@ -101,7 +101,7 @@
 **💼 Skills Demonstrated:** GenAI, LLM deployment, Python, ML engineering, system design
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/llmgenaiproj)
-![Updated](https://img.shields.io/badge/Updated-December_2024-success?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-December_2025-success?style=flat-square)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 <td width="50%">
 
 ### 🌱 [CO2 Extension](https://github.com/Farx1/Co2_extension)
-**Hackathon Winners - IBM DIA Challenge**
+**Hackathon Winner - IBM DIA Challenge**
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Team_23-0052CC?style=flat-square"/> <img src="https://img.shields.io/badge/Sustainability-4CAF50?style=flat-square"/>
 
@@ -128,29 +128,29 @@
 **💼 Skills Demonstrated:** Hackathon experience, sustainability tech, data analysis, teamwork
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/Co2_extension)
-![Updated](https://img.shields.io/badge/Updated-November_2024-success?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-November_2025-success?style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🏆 [SST Hackathon](https://github.com/Farx1/SST_HAckathon)
-**Recent Hackathon Project**
+### 🏆 [SST Hackathon - Smart Vehicle Requirements](https://github.com/Farx1/SST_HAckathon)
+**Capgemini Hackathon - Team 82**
 
-<img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Innovation-9C27B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Enterprise_Architecture-9C27B0?style=flat-square"/>
 
-**November 2024** - Innovative solution developed during SST Hackathon, showcasing rapid prototyping and problem-solving skills.
+**November 2025** - Full-stack orchestration platform for requirements management in connected electric vehicle development. Comprehensive solution with centralized & federated architecture scenarios.
 
-**🎯 Highlights:**
-- ✅ 48-hour intensive development
-- ✅ Team collaboration
-- ✅ MVP delivery under pressure
-- ✅ Innovative approach to challenge
-- ✅ Technical execution
+**🎯 Project Highlights:**
+- 🏗️ **Enterprise Architecture** - SW/HW/SYS engineering orchestration
+- 📊 **ROI Analysis** - Cumulative HROI over 5 years
+- 🎨 **Interactive Dashboard** - React + Vite with data visualization
+- 📈 **SWOT Analysis** - Comparative scenario evaluation
+- 🔧 **Full-Stack** - Express backend + modern React frontend
 
-**💼 Skills Demonstrated:** Rapid development, hackathon experience, agile methodology, innovation
+**💼 Skills Demonstrated:** Enterprise architecture, full-stack development, business analysis, technical documentation, team leadership
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/SST_HAckathon)
-![Updated](https://img.shields.io/badge/Updated-November_2024-success?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-November_2025-success?style=flat-square)
 
 </td>
 </tr>
@@ -179,7 +179,7 @@
 **💼 Skills:** Quantum computing, algorithm design, Qiskit, research
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/qcompress)
-![Updated](https://img.shields.io/badge/Updated-August_2024-informational?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-August_2025-informational?style=flat-square)
 
 </td>
 <td width="50%">
@@ -201,7 +201,7 @@
 **💼 Skills:** Computer vision, deep learning, OpenCV, model deployment
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/objectdetectorproject)
-![Updated](https://img.shields.io/badge/Updated-March_2024-informational?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-March_2025-informational?style=flat-square)
 
 </td>
 </tr>
@@ -375,7 +375,7 @@
 
 ## 🎓 Education
 
-<div align="left">
+<div align="center">
 
 ### 🏫 ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
 
@@ -473,6 +473,6 @@
 <br/>
 
 <sub>*Built with ❤️ by Jules Barth • Passionate about LLM, GenAI, Quantum Computing & Innovation*</sub>  
-<sub>*Last updated: December 2025 • Always learning, always building!!!*</sub>
+<sub>*Last updated: December 2025 • Always learning, always building* 🚀</sub>
 
 </div>
