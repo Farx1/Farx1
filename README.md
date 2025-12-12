@@ -41,7 +41,7 @@
 
 **Final-year Engineering Student** at **ESILV** specializing in **Data & Artificial Intelligence** with focus on **Quantum Computing**. I build intelligent systems combining cutting-edge ML/AI with practical applications.
 
-- 🎓 **Master's in Data & AI Engineering** | ESILV (2021-2026)
+- 🎓 **Master's in Data & AI Engineering** | ESILV (2020-2026)
 - 🔬 **Specialization:** Quantum Computing Track
 - 💼 **Seeking:** 6-month end-of-studies internship (Data/AI/ML Engineer)
 - 📅 **Availability:** February 2026
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Recent Projects (2024)
+## 🚀 Recent Projects
 
 <table>
 <tr>
