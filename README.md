@@ -375,7 +375,7 @@
 
 ## 🎓 Education
 
-<div align="center">
+<div align="left">
 
 ### 🏫 ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
 
