@@ -1,478 +1,304 @@
 <div align="center">
 
-<!-- Professional Banner -->
+<!-- Custom Professional Banner -->
 <img width="100%" src="https://github.com/Farx1/Farx1/blob/main/banner.png" alt="Jules Barth - Data & AI Engineer"/>
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=twinkling"/>
+<!-- Animated Header with Wave Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
-<!-- Professional Title Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=Jules+Barth;Data+%26+AI+Engineering+Student;Quantum+Computing+%7C+Machine+Learning+%7C+Full-Stack;🎯+Seeking+6-Month+Internship+•+February+2026" alt="Professional Title"/>
+<!-- Typing Animation -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=100&color=58A6FF&repeat=false&center=true&vCenter=true&multiline=true&width=1050&height=200&lines=M2+Data+%26+AI+Engineering+Student+%40+ESILV;Quantum+Computing+Enthusiast;Full-Stack+Developer;Building+Intelligent+Systems+%26+Agentic+AI;Seeking+a+6-month+end-of-studies+internship+starting+February+2026"
+  alt="Typing Animation"
+/>
 
-<br/>
+<br/><br/>
 
-<!-- Key Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🎯_SEEKING-6--Month%20Internship-00C851?style=for-the-badge&labelColor=1a1a1a" alt="Seeking Internship"/>
-  <img src="https://img.shields.io/badge/📅_START-February%202026-2979FF?style=for-the-badge&labelColor=1a1a1a" alt="Start Date"/>
-  <img src="https://img.shields.io/badge/📍_BASED-Paris%2C%20France-FF6D00?style=for-the-badge&labelColor=1a1a1a" alt="Location"/>
-</p>
-
-<!-- Quick Contact -->
+<!-- Social Badges -->
 <p>
   <a href="mailto:julesbarth13@gmail.com">
     <img src="https://img.shields.io/badge/Email-julesbarth13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/jules-barth">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-jules--barth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://julesbarth-myportfolio.fr">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-julesbarth--myportfolio.fr-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Farx1&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=Farx1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-**Final-year Engineering Student** at **ESILV** specializing in **Data & Artificial Intelligence** with focus on **Quantum Computing**. I build intelligent systems combining cutting-edge ML/AI with practical applications.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 🎓 **Master's in Data & AI Engineering** | ESILV (2020-2026)
-- 🔬 **Specialization:** Quantum Computing Track
-- 💼 **Seeking:** 6-month end-of-studies internship (Data/AI/ML Engineer)
-- 📅 **Availability:** February 2026
-- 🌍 **Open to:** Paris, France & International opportunities
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🎯 Current Focus
 
-- Building production-ready LLM applications and chatbots
-- Developing GenAI solutions for real-world problems
-- Creating quantum compression algorithms
-- Contributing to sustainability tech (CO2 tracking)
+I'm a **final-year (M2)** engineering student specializing in **Artificial Intelligence**, **Data Science**, and **Quantum Computing**.  
+I enjoy building **intelligent systems**, from **agentic AI & RAG** to **quantum-inspired algorithms**.
+
+- 🤖 Hybrid quantum–classical ML & agentic workflows  
+- 🌐 AI-powered & LLM-integrated web applications  
+- ⚛️ Quantum computing, QML & optimization  
+
+### 🎯 Goals
+
+- Find a **6-month end-of-studies internship** in **Data / AI / ML Engineering** starting **February 2026**  
+- Work on **LLM systems, evaluation, RAG, QML or security / privacy in AI**  
+- Contribute to **open-source** and impactful research projects  
+
+</td>
+<td width="40%" valign="top">
+
+```python
+class JulesBarth:
+    def __init__(self):
+        self.role = "M2 Data & AI Engineering Student"
+        self.school = "ESILV"
+        self.location = "Nanterre, France 🇫🇷"
+        self.interests = [
+            "Artificial Intelligence",
+            "Agentic & RAG Systems",
+            "Quantum Computing",
+            "Full-Stack Development",
+        ]
+
+    def current_status(self):
+        return {
+            "studying": "ML, GenAI & Quantum Computing",
+            "building": "Agentic AI & dev tools",
+            "seeking": "6-month end-of-studies internship (Feb 2026)",
+        }
+
+
+jules = JulesBarth()
+print(jules.current_status())
+```
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [ESILV Chatbot](https://github.com/Farx1/esilvchatbot)
-**AI-Powered University Assistant**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Chatbot-4CAF50?style=flat-square"/>
-
-**Latest Project** - Intelligent chatbot for ESILV using advanced LLM technology. Helps students navigate university resources and information.
-
-**🎯 Key Features:**
-- ✅ Natural language understanding for student queries
-- ✅ Context-aware responses about university info
-- ✅ Integration with university systems
-- ✅ Real-time conversational AI
-- ✅ TypeScript for robust development
-
-**💼 Skills Demonstrated:** LLM integration, chatbot architecture, TypeScript, NLP, production deployment
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/esilvchatbot)
-![Updated](https://img.shields.io/badge/Updated-December_2025-success?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🧠 [LLM GenAI Project](https://github.com/Farx1/llmgenaiproj)
-**Generative AI Application**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-00C851?style=flat-square"/>
-
-**Recent** - Advanced generative AI project leveraging large language models for intelligent content generation and processing.
-
-**🎯 Key Features:**
-- ✅ LLM-powered generation pipeline
-- ✅ Advanced prompt engineering
-- ✅ Custom model fine-tuning
-- ✅ Production-ready architecture
-- ✅ Scalable design patterns
-
-**💼 Skills Demonstrated:** GenAI, LLM deployment, Python, ML engineering, system design
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/llmgenaiproj)
-![Updated](https://img.shields.io/badge/Updated-December_2025-success?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 [CO2 Extension](https://github.com/Farx1/Co2_extension)
-**Hackathon Winner - IBM DIA Challenge**
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Team_23-0052CC?style=flat-square"/> <img src="https://img.shields.io/badge/Sustainability-4CAF50?style=flat-square"/>
-
-**Hackathon Project** - Carbon footprint tracking and analysis tool developed during IBM DIA Hackathon. Team 23's innovative solution for environmental impact monitoring.
-
-**🎯 Impact:**
-- 🏆 Hackathon competition project
-- ✅ Real-time CO2 emissions tracking
-- ✅ Data visualization & analytics
-- ✅ ML-powered predictions
-- ✅ Browser extension integration
-
-**💼 Skills Demonstrated:** Hackathon experience, sustainability tech, data analysis, teamwork
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/Co2_extension)
-![Updated](https://img.shields.io/badge/Updated-November_2025-success?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🏆 [SST Hackathon - Smart Vehicle Requirements](https://github.com/Farx1/SST_HAckathon)
-**Capgemini Hackathon - Team 82**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Enterprise_Architecture-9C27B0?style=flat-square"/>
-
-**November 2025** - Full-stack orchestration platform for requirements management in connected electric vehicle development. Comprehensive solution with centralized & federated architecture scenarios.
-
-**🎯 Project Highlights:**
-- 🏗️ **Enterprise Architecture** - SW/HW/SYS engineering orchestration
-- 📊 **ROI Analysis** - Cumulative HROI over 5 years
-- 🎨 **Interactive Dashboard** - React + Vite with data visualization
-- 📈 **SWOT Analysis** - Comparative scenario evaluation
-- 🔧 **Full-Stack** - Express backend + modern React frontend
-
-**💼 Skills Demonstrated:** Enterprise architecture, full-stack development, business analysis, technical documentation, team leadership
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/SST_HAckathon)
-![Updated](https://img.shields.io/badge/Updated-November_2025-success?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-### 🔬 Core Technical Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚛️ [QCompress](https://github.com/Farx1/qcompress)
-**Quantum Compression Algorithm**
-
-<img src="https://img.shields.io/badge/Quantum-6929C4?style=flat-square&logo=qiskit&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-**Quantum Computing Research** - Novel compression algorithm leveraging quantum computing principles for efficient data compression.
-
-**🎯 Innovation:**
-- ✅ Quantum algorithm implementation
-- ✅ Data compression optimization
-- ✅ Qiskit framework utilization
-- ✅ Performance benchmarking
-- ✅ Research-oriented approach
-
-**💼 Skills:** Quantum computing, algorithm design, Qiskit, research
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/qcompress)
-![Updated](https://img.shields.io/badge/Updated-August_2025-informational?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 👁️ [Object Detector](https://github.com/Farx1/objectdetectorproject)
-**Real-Time Computer Vision**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square"/>
-
-**Computer Vision** - Production-ready object detection system using YOLO for real-time video analysis.
-
-**🎯 Capabilities:**
-- ✅ Real-time object detection
-- ✅ Multiple object tracking
-- ✅ Video stream processing
-- ✅ High accuracy & performance
-- ✅ Deployment-ready
-
-**💼 Skills:** Computer vision, deep learning, OpenCV, model deployment
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Farx1/objectdetectorproject)
-![Updated](https://img.shields.io/badge/Updated-March_2025-informational?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-### 📚 Additional Projects
-
-<details>
-<summary><b>🎨 Image Processing & Computer Vision</b></summary>
-
-<br/>
-
-**[Project PhotoShop](https://github.com/Farx1/Project_PhotoShop)** - C#
-- Professional image manipulation toolkit
-- QR Code generation system
-- Fractal art generator (Mandelbrot, Julia sets)
-- Advanced filters and transformations
-
-**[Chiffres CNN](https://github.com/Farx1/chiffres_cnn)** - Python
-- Handwritten digit recognition using CNNs
-- MNIST dataset training
-- High-accuracy classification model
-- Deep learning pipeline
-
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-
-<br/>
-
-**[AutoCorrectP](https://github.com/Farx1/autocorrectP)** - TypeScript
-- Self-optimizing landing page
-- A/B testing integration
-- Real-time analytics with PostHog
-- Performance optimization
-
-**[PathVisualizer](https://github.com/Farx1/PathVisualizer)** - Python
-- Interactive pathfinding algorithm visualization
-- Dijkstra, A*, BFS, DFS implementations
-- Educational tool for algorithms
-- Real-time step-by-step execution
-
-</details>
-
----
-
-## 💻 Technical Stack
 
 <div align="center">
 
-### Languages & Frameworks
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
-### AI & Machine Learning
+### 🧠 Agentic & LLM Systems
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+- #### 💼 [HR_FAQ_Chatbot_DSPy](https://github.com/Farx1/HR_FAQ_Chatbot_DSPy)  
+  *HR FAQ Chatbot fine-tuned & optimized with DSPy*  
+  - 🔥 **Tech**: Python, DSPy, LLM fine-tuning  
+  - 🎯 **Focus**: Prompt / program optimization, robust answers for HR use-case  
+  - 💡 **Plus**: Clear pipeline to iterate on quality & evaluation
 
-### LLM & GenAI
+- #### ⚡ [Tunellm_Launcher](https://github.com/Farx1/Tunellm_Launcher)  
+  *Multi-platform intelligent launcher with LLM integration (Raycast-like)*  
+  - 🔥 **Tech**: TypeScript, (Tauri / Node), LLM APIs  
+  - 🎯 **Focus**: Fast search, commands, AI-assisted dev workflows  
+  - 💡 **Plus**: Vision of an “AI-native” productivity tool
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
+- #### 🏫 [esilvchatbot](https://github.com/Farx1/esilvchatbot)  
+  *Smart Assistant for ESILV (Q&A + automation)*  
+  - 🔥 **Tech**: TypeScript, Next.js, APIs, LLM backend  
+  - 🎯 **Focus**: Answer questions about programs, admissions & school life  
+  - 💡 **Plus**: Basis for a reusable school / org assistant
 
-### Quantum Computing
+---
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-00599C?style=for-the-badge&logo=ibm&logoColor=white)
+### 🔐 Privacy, Security & Advanced ML
 
-### Web & Cloud
+- #### 🧾 [SA_FHE – Sentiment Analysis with FHE](https://github.com/Farx1/SA_FHE)  
+  *Sentiment analysis on **encrypted data** using Fully Homomorphic Encryption*  
+  - 🔥 **Tech**: Python, Concrete-ML / FHE, transformers, XGBoost  
+  - 🎯 **Focus**: End-to-end pipeline: training → tests → encrypted inference  
+  - 💡 **Plus**: Concrete example of privacy-preserving AI
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- #### 🌍 [Co2_extension](https://github.com/Farx1/Co2_extension)  
+  *IBM DIA Hackathon project (Team 23)*  
+  - 🔥 **Tech**: Python, Jupyter  
+  - 🎯 **Focus**: Environmental data & analysis  
+  - 💡 **Plus**: Fast-paced prototyping & teamwork
 
-### Data Science & Tools
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🤖 Machine Learning & Data Science
+
+- #### ⚽ [football_match_pred](https://github.com/Farx1/football_match_pred)  
+  *Football Match Prediction System*  
+  - 🔥 **Tech**: Python, classical ML models  
+  - 🎯 **Focus**: Feature engineering & match outcome prediction  
+  - 💡 **Plus**: Full pipeline from raw data to evaluation
+
+- #### 🧪 [llmgenaiproj](https://github.com/Farx1/llmgenaiproj)  
+  *Experiments & pipelines around LLMs / GenAI*  
+  - 🔥 **Tech**: Python, LLM APIs, tooling  
+  - 🎯 **Focus**: Prompting, evaluation, integration tests  
+  - 💡 **Plus**: Playground for future AI ideas
+
+- #### 🌀 [qcompress](https://github.com/Farx1/qcompress)  
+  *Quantum-inspired compression / experimentation (WIP)*  
+  - 🔥 **Tech**: Python, maths / quantum ideas  
+  - 🎯 **Focus**: Exploring compression & information theory  
+  - 💡 **Plus**: Space for high-level research ideas
+
+---
+
+### 👁 Computer Vision & Interactive Apps
+
+- #### 👁‍🗨 [objectdetectorproject](https://github.com/Farx1/objectdetectorproject)  
+  *Real-time object detection application*  
+  - 🔥 **Tech**: Python, OpenCV, YOLO  
+  - 🎯 **Focus**: Live detection on video streams  
+  - 💡 **Plus**: Close to real-world CV use cases
+
+- #### 🔢 [chiffres_cnn](https://github.com/Farx1/chiffres_cnn)  
+  *CNN for handwritten digit recognition*  
+  - 🔥 **Tech**: Python, TensorFlow  
+  - 🎯 **Focus**: Image classification pipeline  
+  - 💡 **Plus**: Good pedagogical example of CNNs
+
+- #### 🎨 [Project_PhotoShop](https://github.com/Farx1/Project_PhotoShop)  
+  *Photoshop-like desktop app: image editing, QR codes & fractals*  
+  - 🔥 **Tech**: C#, WPF  
+  - 🎯 **Focus**: Desktop UX + image processing  
+  - 💡 **Plus**: Mixes creativity, maths & UI
+
+- #### 🗺️ [PathVisualizer](https://github.com/Farx1/PathVisualizer)  
+  *Pathfinding algorithm visualizer*  
+  - 🔥 **Tech**: (C# / JS depending on version)  
+  - 🎯 **Focus**: Visualize BFS, DFS, A*, etc.  
+  - 💡 **Plus**: Great to explain graph algorithms
+
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Technical Arsenal
+
+</div>
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
+</p>
+
+### 🌐 Web & Apps
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Activity
+
+</div>
+
+<div align="center">
+<p>
+  <img src="https://streak-stats.demolab.com?user=Farx1&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+</p>
+</div>
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farx1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8&hide=html,css,scss" alt="Top Languages"/>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect & Collaborate
 
-<br/><br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborations"/>
+  <img src="https://img.shields.io/badge/Seeking-6--month%20Data%2FAI%20internship-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Seeking internship"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farx1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" alt="GitHub Streak"/>
+<br/>
 
-<br/><br/>
+<p>
+  <a href="mailto:julesbarth13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/jules-barth">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit%20my%20profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
+<p>
+  <a href="https://julesbarth-myportfolio.fr">
+    <img src="https://img.shields.io/badge/Portfolio-Discover%20my%20work-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farx1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Contribution Graph"/>
+<br/>
+
+**📍 Paris, France** • **📞 +33 7 81 62 93 02**
+
+<br/>
+
+**[📄 Check Resume](RESUME_Jules_BARTH.pdf)** • **[🌐 Personal Website](https://julesbarth-myportfolio.fr)**
 
 </div>
 
 ---
 
-## 💼 What I'm Seeking
-
 <div align="center">
 
-### 🎯 6-Month End-of-Studies Internship | Starting February 2026
+### 💫 Building the Future with AI & Quantum Computing
 
-</div>
+```python
+def connect_with_jules():
+    print("🚀 Bridging classical and quantum worlds")
+    print("🤝 Open to collaborations & internships")
+    print("💡 Innovation happens through experimentation")
+    return "Ready to build something great! 🌟"
 
-<table>
-<tr>
-<td width="50%">
 
-### 💼 Target Positions
-
-- **🤖 AI/ML Engineer** - LLM applications, GenAI systems
-- **📊 Data Engineer** - Pipeline & infrastructure
-- **💬 NLP Engineer** - Chatbots, language models
-- **🔬 Research Engineer** - AI/Quantum research
-- **🚀 Full-Stack AI Engineer** - AI-powered products
-
-</td>
-<td width="50%">
-
-### 🌟 What I Offer
-
-- ✅ **LLM & GenAI Expertise** - Latest AI technologies
-- ✅ **Production Experience** - Deployed chatbots & apps
-- ✅ **Hackathon Winner** - Proven under pressure
-- ✅ **Full-Stack Skills** - Frontend to ML deployment
-- ✅ **Research Mindset** - Quantum computing background
-
-</td>
-</tr>
-</table>
-
-### 🎨 Areas of Interest
-
-- 🤖 **LLM Applications** - Chatbots, RAG systems, agent frameworks
-- 🧠 **GenAI Solutions** - Content generation, AI assistants
-- ⚛️ **Quantum ML** - Quantum algorithms, hybrid systems
-- 📊 **Data Engineering** - ML pipelines, big data infrastructure
-- 🌐 **AI Products** - User-facing AI applications
-- 🔬 **R&D** - Innovation, research, experimentation
-
-### 🌍 Open To
-
-- 🇫🇷 Paris & Île-de-France region
-- 🌍 International opportunities (willing to relocate)
-- 🏢 Startups, scale-ups, tech companies
-- 🔬 Research labs and innovation centers
-- 💼 Remote and on-site positions
-
----
-
-## 🎓 Education
-
-<div align="left">
-
-### 🏫 ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
-
-**Master's Degree in Data & AI Engineering** | *2021 - 2026*
+print(connect_with_jules())
+```
 
 <br/>
 
-**🎯 Major:** Data & Artificial Intelligence  
-**🔬 Specialization:** Quantum Computing Track  
-**📍 Location:** Paris - La Défense, France
+**⭐ If you find my work interesting, feel free to star my repositories!**
 
 <br/>
 
-**📚 Key Courses:**
-- Advanced Machine Learning & Deep Learning
-- Large Language Models & Generative AI
-- Quantum Computing & Quantum Information
-- Natural Language Processing
-- Data Engineering & MLOps
-- AI Ethics & Responsible AI
-- Cloud Computing & Architecture
-
-**🏆 Achievements:**
-- Hackathon participations & wins
-- Research projects in QML
-- Active contributions to AI community
-- Dean's List (Multiple semesters)
-
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-### I'm always open to discussing opportunities, collaborations, or tech topics!
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="mailto:julesbarth13@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Click_to_Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<br/><br/>
-<b>julesbarth13@gmail.com</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/jules-barth">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br/><br/>
-<b>linkedin.com/in/jules-barth</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://julesbarth-myportfolio.fr">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-<br/><br/>
-<b>julesbarth-myportfolio.fr</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="tel:+33781629302">
-<img src="https://img.shields.io/badge/📞_Phone-Call_Me-00C300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<br/><br/>
-<b>+33 7 81 62 93 02</b>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 📄 Documents
-
-<a href="https://github.com/Farx1/Farx1/blob/main/RESUME_Jules_BARTH.pdf">
-<img src="https://img.shields.io/badge/📄_Download_Resume-CV-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-</a>
-<a href="https://julesbarth-myportfolio.fr">
-<img src="https://img.shields.io/badge/🎨_View_Portfolio-Projects-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
----
-
-<sub>⭐ If you find my projects interesting, feel free to star them!</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-<br/>
-
-<sub>*Built with ❤️ by Jules Barth • Passionate about LLM, GenAI, Quantum Computing & Innovation*</sub>  
-<sub>*Last updated: December 2025 • Always learning, always building* 🚀</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
